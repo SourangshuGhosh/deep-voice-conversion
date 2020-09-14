@@ -1,6 +1,6 @@
 # Voice Conversion with Non-Parallel Data
 ## Subtitle: Speaking like Kate Winslet
-> Authors: Dabi Ahn(andabi412@gmail.com), [Kyubyong Park](https://github.com/Kyubyong)(kbpark.linguist@gmail.com)
+> Authors: [Sourangshu Ghosh](https://github.com/SourangshuGhosh)(sourangshug123@gmail.com)
 
 ## Samples
 https://soundcloud.com/andabi/sets/voice-style-transfer-to-kate-winslet-with-deep-neural-networks
